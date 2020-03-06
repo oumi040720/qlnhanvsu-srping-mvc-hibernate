@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//i18n-res/depart.properties=UTF-8
+encoding//i18n-res/depart_vi.properties=UTF-8
+encoding//i18n-res/global.properties=UTF-8
+encoding//i18n-res/global_vi.properties=UTF-8
+encoding//i18n-res/home.properties=UTF-8
+encoding//i18n-res/home_vi.properties=UTF-8
+encoding//i18n-res/record.properties=UTF-8
+encoding//i18n-res/record_vi.properties=UTF-8
+encoding//i18n-res/staff.properties=UTF-8
+encoding//i18n-res/staff_vi.properties=UTF-8
+encoding//i18n-res/user.properties=UTF-8
+encoding//i18n-res/user_vi.properties=UTF-8
+encoding//src/poly/controller/admin/AdminRecordController.java=UTF-8
